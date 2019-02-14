@@ -19,6 +19,13 @@
 	* makes sense that Amazon is investing in a software creating company like Aurora rather than working with the R&D department of a particular car manufacturer
 		* the software being created is intended to be functional on most standard vehicles 
 
+
+
+#### Edit after Fork - Sushanth Kambham
+It's interesting to see how Amazon seems to be reaching past its core competencies into spaces such as self-driving cars
+
+* This might help them automate down their supply chain in areas such as automating delivery trucks.
+
 ![Alt Text](https://aurora.tech/assets/images/car1.jpg)
 
 
